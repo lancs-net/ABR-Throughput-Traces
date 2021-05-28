@@ -6,7 +6,7 @@ The traces were calculated from CDN logs of a live HTTP Adaptive Streaming (HAS)
 
 CDN logs included data from a single day in 2018.
 
-The data was filtered to only include traces were the mean throughput is less than 4800 kbps, resulting in 7,000 traces.
+The data was filtered to only include traces where the mean throughput is less than 4800 kbps, resulting in 7,000 traces.
 
 The distribution of throughput measurements in this dataset is shown below.
 
