@@ -15,6 +15,16 @@ The distribution of throughput measurements in this dataset is shown below.
 This dataset was used in the following papers:
 
 ```
+@article{lyko2024improving,
+  title={Improving quality of experience in adaptive low latency live streaming},
+  author={Lyko, Tomasz and Broadbent, Matthew and Race, Nicholas and Nilsson, Mike and Farrow, Paul and Appleby, Steve},
+  journal={Multimedia Tools and Applications},
+  volume={83},
+  number={6},
+  pages={15957--15983},
+  year={2024},
+  publisher={Springer}
+}
 @inproceedings{lyko2020llama,
   title={Llama-Low Latency Adaptive Media Algorithm},
   author={Lyko, Tomasz and Broadbent, Matthew and Race, Nicholas and Nilsson, Mike and Farrow, Paul and Appleby, Steve},
